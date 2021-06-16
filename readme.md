@@ -16,7 +16,7 @@
 
 ### 1 vài hình ảnh 🌱
 
-<p align="center"><img src="https://user-images.githubusercontent.com/48283189/119209578-8b201980-bad1-11eb-860c-0b3c745623ef.png" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/66715394/122169417-90417000-cea7-11eb-98d0-f59840d641f5.png" alt="Synthwave" height="300" width="500"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/48283189/119209595-abe86f00-bad1-11eb-8d94-a006ca2aac55.png" alt="Synthwave" height="300" width="500"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/48283189/119209605-cf131e80-bad1-11eb-8623-e5d75c40153c.png" alt="Synthwave" height="300" width="500"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/48283189/119209615-e3efb200-bad1-11eb-9028-b7992fc6da17.png" alt="Synthwave" height="300" width="500"></p>
