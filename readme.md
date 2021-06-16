@@ -1,4 +1,4 @@
-<p align="center">WEBSITE BÁN TRÀ SỮA</p>
+<p align="center"><b>WEBSITE BÁN TRÀ SỮA</b></p>
 
 
 ## About Laravel
