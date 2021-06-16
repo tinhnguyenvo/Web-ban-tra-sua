@@ -1,65 +1,42 @@
-<p align="center"><b>WEBSITE BÁN TRÀ SỮA</b></p>
+<h2 align="center">WEBSITE BÁN TRÀ SỮA</h2>
+
+> Website cung cấp các chức năng như:
+> - Cung cấp thông tin các sản phẩm
+> - Chức năng tìm kiếm theo tên và loại sản phẩm
+> - Chức năng giỏ hàng và thanh toán
+> - Xem trạng thái đơn hàng
+> - Thống kê doanh thu 
+> - Thêm, sửa, xóa sản phẩm
+> - Đặt lịch khuyến mãi cho sản phẩm
+
+### Thông tin phần mềm 🌐
+- &nbsp; Ngôn ngữ lập trình: PHP (framework Laravel)
+- &nbsp; Thư viện hỗ trợ: Bootstrap,JavaScript,jQuery
+- &nbsp; Cơ sở dữ liệu: MySQL
+
+### 1 vài hình ảnh 🌱
+
+<p align="center"><img src="https://user-images.githubusercontent.com/48283189/119209578-8b201980-bad1-11eb-860c-0b3c745623ef.png" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/48283189/119209595-abe86f00-bad1-11eb-8d94-a006ca2aac55.png" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/48283189/119209605-cf131e80-bad1-11eb-8623-e5d75c40153c.png" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/48283189/119209615-e3efb200-bad1-11eb-9028-b7992fc6da17.png" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/48283189/119209601-c3bff300-bad1-11eb-85f4-0560b8e8f152.png" alt="Synthwave" height="300" width="500"></p>
+
+<h2>Tôi là Tính! <img src="https://i.pinimg.com/originals/37/32/ee/3732eedebb5492e7637e16c558d82275.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Học tại <a href="https://ctuet.edu.vn">Đại học Kỹ Thuật - Công Nghệ Cần Thơ <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+</em></p>
+<p>Chyên nghành Kỹ thuật phần mềm!</p>
+<h2 align="center">Liên lạc với tôi tại:</h2>
+<p align="center">
+  <a href="https://www.facebook.com/tinhnguyen1199/">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" alt="Facebook Tính" height="30" width="30">
+  </a>
+
+  <a href="https://github.com/tinhnguyenvo">
+    <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="Github Tính" height="30" width="30">
+  </a>
 
 
-## About Laravel
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost you and your team's skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
